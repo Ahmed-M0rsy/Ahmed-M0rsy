@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ahmed-M0rsy
-- 👀 I’m interested in iOS and MacOS developing 
-- 🌱 I’m currently learning programming
+- 👀 I’m interested in ai 
+- 🌱 I’m currently learning Data Science
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
